@@ -71,7 +71,7 @@ A 90-second demo video was created to:
 - Explain the tech and prompt logic  
 - Walk through the UI with visual highlights  
 
-📽 Watch it here: [👉 Demo Video](https://drive.google.com/uc?id=1hvtPqyOepJUbc5OPW-C29UWYNgZpq5di&export=download)
+📽 Watch it here: [👉 Demo Video]https://drive.google.com/file/d/1hvtPqyOepJUbc5OPW-C29UWYNgZpq5di/view?usp=sharing
 (Replace with your actual YouTube or Vimeo link)
 
 
